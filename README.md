@@ -33,4 +33,4 @@ Caracteristicas Tecnicas
 
 Execucao
 
-python aprov_escolar.py
+python main.py
